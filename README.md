@@ -71,7 +71,7 @@
 3. 点击 **扫描** — 查看识别到的字符列表
 4. 点击 **预览** — 生成 Atlas 预览图，确认效果
 5. 点击 **生成** — 输出字体资源到指定目录
-   <img width="1497" height="300" alt="image" src="https://github.com/user-attachments/assets/7f5f47c5-d23d-4e20-9b7d-cf92910e875a" />
+   <img width="1488" height="301" alt="image" src="https://github.com/user-attachments/assets/c9bb66d9-9499-4229-9447-72389fbed38c" />
 
 生成的资源包括：
 
