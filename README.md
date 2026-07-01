@@ -26,6 +26,8 @@
 ### 1. 创建构建配置
 
 在 Project 窗口右键 → `Create → Tools → Bitmap Font → Build Profile`，创建一个配置资产。
+<img width="1242" height="1000" alt="image" src="https://github.com/user-attachments/assets/ce5297bd-848a-4f40-8e5e-dea73f64112f" />
+
 
 ### 2. 配置参数
 
@@ -61,10 +63,15 @@
 ### 4. 生成字体
 
 1. 打开 `Tools → Bitmap Font → Generator`
+   <img width="367" height="196" alt="image" src="https://github.com/user-attachments/assets/5ad7e6fb-a333-4a90-a2e7-55b84835b3c4" />
+
 2. 拖入 Build Profile 配置
+   <img width="862" height="783" alt="image" src="https://github.com/user-attachments/assets/2e648344-695e-46f0-b54b-d9fd2e1102d4" />
+
 3. 点击 **扫描** — 查看识别到的字符列表
 4. 点击 **预览** — 生成 Atlas 预览图，确认效果
 5. 点击 **生成** — 输出字体资源到指定目录
+   <img width="1497" height="300" alt="image" src="https://github.com/user-attachments/assets/7f5f47c5-d23d-4e20-9b7d-cf92910e875a" />
 
 生成的资源包括：
 
